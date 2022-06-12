@@ -1,0 +1,84 @@
+Number,Contract,Number,COB1,FinClass,LOB,Number,TPA,PrimaryKey,Countif
+1,Contract 1,4,COB1 4,FFS,Medicare,,,Contract 1COB1 4,1
+1,Contract 1,6,COB1 6,FFS,Medicare,,,Contract 1COB1 6,1
+5,Contract 5,9,COB1 9,Self-Pay,Commercial,,,Contract 5COB1 9,1
+8,Contract 8,13,COB1 13,FFS,Commercial,2,TPA 2,Contract 8COB1 13,2
+12,Contract 12,18,COB1 18,FFS,Medicare,6,TPA 6,Contract 12COB1 18,1
+16,Contract 16,21,COB1 21,FFS,Medicare,2,TPA 2,Contract 16COB1 21,1
+1,Contract 1,24,COB1 24,FFS,Medicare,,,Contract 1COB1 24,1
+18,Contract 18,28,COB1 28,CAP,Medicaid,,,Contract 18COB1 28,1
+21,Contract 21,30,COB1 30,CAP,Medicaid,7,TPA 7,Contract 21COB1 30,1
+24,Contract 24,34,COB1 34,CAP,Medicaid,7,TPA 7,Contract 24COB1 34,1
+12,Contract 12,37,COB1 37,FFS,Medicare,6,TPA 6,Contract 12COB1 37,2
+26,Contract 26,38,COB1 38,FFS,Medicare,,,Contract 26COB1 38,1
+29,Contract 29,39,COB1 39,FFS,Medicare,,,Contract 29COB1 39,1
+31,Contract 31,40,COB1 40,CAP,Medicare,,,Contract 31COB1 40,1
+35,Contract 35,41,COB1 41,CAP,Commercial,,,Contract 35COB1 41,1
+40,Contract 40,46,COB1 46,FFS,Medicare,,,Contract 40COB1 46,1
+40,Contract 40,50,COB1 50,FFS,Medicare,,,Contract 40COB1 50,1
+42,Contract 42,53,COB1 53,FFS,Medicare,11,TPA 11,Contract 42COB1 53,2
+29,Contract 29,55,COB1 55,FFS,Medicare,,,Contract 29COB1 55,1
+43,Contract 43,59,COB1 59,CAP,Medicare,,,Contract 43COB1 59,1
+35,Contract 35,63,COB1 63,CAP,Medicare,,,Contract 35COB1 63,1
+46,Contract 46,68,COB1 68,CAP,Medicare,,,Contract 46COB1 68,1
+46,Contract 46,72,COB1 72,CAP,Medicare,,,Contract 46COB1 72,1
+48,Contract 48,77,COB1 77,CAP,Medicare,13,TPA 13,Contract 48COB1 77,1
+49,Contract 49,80,COB1 80,CAP,Medicare,13,TPA 13,Contract 49COB1 80,1
+1,Contract 1,81,COB1 81,FFS,Medicare,,,Contract 1COB1 81,1
+50,Contract 50,85,COB1 85,FFS,Medicare,7,TPA 7,Contract 50COB1 85,1
+53,Contract 53,87,COB1 87,CAP,Medicare,7,TPA 7,Contract 53COB1 87,1
+56,Contract 56,88,COB1 88,CAP,Medicare,,,Contract 56COB1 88,1
+40,Contract 40,91,COB1 91,FFS,Medicare,,,Contract 40COB1 91,1
+57,Contract 57,95,COB1 95,FFS,Medicare,7,TPA 7,Contract 57COB1 95,2
+1,Contract 1,97,COB1 97,FFS,Medicare,,,Contract 1COB1 97,1
+1,Contract 1,101,COB1 101,FFS,Medicare,,,Contract 1COB1 101,1
+1,Contract 1,106,COB1 106,FFS,Medicare,,,Contract 1COB1 106,3
+16,Contract 16,108,COB1 108,CAP,Medicare,2,TPA 2,Contract 16COB1 108,2
+60,Contract 60,112,COB1 112,CAP,Medicare,7,TPA 7,Contract 60COB1 112,1
+63,Contract 63,113,COB1 113,CAP,Medicare,,,Contract 63COB1 113,1
+18,Contract 18,116,COB1 116,CAP,Commercial,,,Contract 18COB1 116,1
+66,Contract 66,119,COB1 119,CAP,Medicaid,16,TPA 16,Contract 66COB1 119,1
+57,Contract 57,95,COB1 95,CAP,Medicare,7,TPA 7,Contract 57COB1 95,2
+69,Contract 69,120,COB1 120,CAP,Medicare,7,TPA 7,Contract 69COB1 120,1
+72,Contract 72,121,COB1 121,CAP,Medicare,6,TPA 6,Contract 72COB1 121,1
+1,Contract 1,106,COB1 106,CAP,Medicare,,,Contract 1COB1 106,3
+66,Contract 66,124,COB1 124,CAP,Medicaid,16,TPA 16,Contract 66COB1 124,1
+73,Contract 73,129,COB1 129,FFS,Medicare,7,TPA 7,Contract 73COB1 129,1
+40,Contract 40,133,COB1 133,FFS,Medicare,,,Contract 40COB1 133,1
+29,Contract 29,138,COB1 138,FFS,Medicare,,,Contract 29COB1 138,1
+1,Contract 1,106,COB1 106,CAP,Medicare,,,Contract 1COB1 106,3
+77,Contract 77,139,COB1 139,CAP,Commercial,,,Contract 77COB1 139,1
+18,Contract 18,141,COB1 141,CAP,Commercial,,,Contract 18COB1 141,1
+79,Contract 79,144,COB1 144,CAP,Medicare,,,Contract 79COB1 144,1
+80,Contract 80,145,COB1 145,CAP,Medicare,11,TPA 11,Contract 80COB1 145,1
+8,Contract 8,147,COB1 147,FFS,Commercial,2,TPA 2,Contract 8COB1 147,2
+1,Contract 1,150,COB1 150,FFS,Medicare,,,Contract 1COB1 150,1
+77,Contract 77,153,COB1 153,CAP,Commercial,,,Contract 77COB1 153,1
+82,Contract 82,158,COB1 158,CAP,Commercial,,,Contract 82COB1 158,1
+86,Contract 86,163,COB1 163,FFS,Medicare,11,TPA 11,Contract 86COB1 163,1
+29,Contract 29,168,COB1 168,FFS,Medicare,,,Contract 29COB1 168,2
+88,Contract 88,171,COB1 171,FFS,Medicare,7,TPA 7,Contract 88COB1 171,2
+42,Contract 42,174,COB1 174,FFS,Medicare,11,TPA 11,Contract 42COB1 174,1
+8,Contract 8,13,COB1 13,CAP,Commercial,2,TPA 2,Contract 8COB1 13,2
+12,Contract 12,37,COB1 37,CAP,Medicare,6,TPA 6,Contract 12COB1 37,2
+93,Contract 93,175,COB1 175,CAP,Commercial,,,Contract 93COB1 175,1
+98,Contract 98,176,COB1 176,CAP,Medicaid,,,Contract 98COB1 176,1
+66,Contract 66,177,COB1 177,CAP,Medicaid,16,TPA 16,Contract 66COB1 177,1
+99,Contract 99,182,COB1 182,CAP,Medicare,,,Contract 99COB1 182,1
+29,Contract 29,185,COB1 185,FFS,Medicare,,,Contract 29COB1 185,1
+93,Contract 93,189,COB1 189,CAP,Commercial,,,Contract 93COB1 189,1
+82,Contract 82,191,COB1 191,CAP,Commercial,,,Contract 82COB1 191,1
+103,Contract 103,194,COB1 194,CAP,Medicaid,,,Contract 103COB1 194,1
+107,Contract 107,198,COB1 198,CAP,Commercial,,,Contract 107COB1 198,1
+109,Contract 109,201,COB1 201,CAP,Medicare,6,TPA 6,Contract 109COB1 201,1
+1,Contract 1,205,COB1 205,FFS,Medicare,,,Contract 1COB1 205,1
+88,Contract 88,171,COB1 171,CAP,Medicare,7,TPA 7,Contract 88COB1 171,2
+49,Contract 49,207,COB1 207,CAP,Medicare,13,TPA 13,Contract 49COB1 207,1
+114,Contract 114,211,COB1 211,CAP,Medicaid,6,TPA 6,Contract 114COB1 211,1
+80,Contract 80,212,COB1 212,CAP,Medicare,11,TPA 11,Contract 80COB1 212,1
+16,Contract 16,108,COB1 108,FFS,Medicare,2,TPA 2,Contract 16COB1 108,2
+42,Contract 42,53,COB1 53,CAP,Medicare,11,TPA 11,Contract 42COB1 53,2
+117,Contract 117,214,COB1 214,CAP,Commercial,,,Contract 117COB1 214,1
+29,Contract 29,168,COB1 168,CAP,Medicare,,,Contract 29COB1 168,2
+121,Contract 121,215,COB1 215,CAP,Medicare,,,Contract 121COB1 215,1
+8,Contract 8,147,COB1 147,CAP,Commercial,2,TPA 2,Contract 8COB1 147,2

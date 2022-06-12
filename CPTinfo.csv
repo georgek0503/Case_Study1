@@ -1,0 +1,131 @@
+CodeDesc,CptType,ServiceItemId,MedicareAllowable
+Lucentis Delive,Lucentis,LUCEN_DELV,0
+Eylea Delivered,Eylea,EYLEA_DELV,0
+Walk Out Not Se,Other,Walk Out,0
+Medical Records,Other,Misc,0
+Incomplete Exam,Other,No Charge,0
+Duplicate Encou,Other,DUP,0
+Avastin Deliver,Avastin,AVAST_DELV,0
+IOL Master,Other,92136,31.93424346
+Visual Field Ex,Other,92083-26,28.88
+Scan Computeriz,Other,92133-TC,15.6
+Visual Field Ex,Other,92083-TC,37.48
+Scan Computeriz,OCT,92133,39.52316454
+Ophth Serv: Med,Office Code,92014,132.5433868
+DilatedRetinl E,Office Code,2022F,0
+Postop F/u Visi,Post-op,99024,0
+Destrct Retinop,Retinal Laser,67228,359.3854468
+Ophth Serv: Med,Office Code,92004,155.6410306
+Pachymetry Ocul,Other,76514,16.41761758
+Ophth Serv: Med,Office Code,92012,90.52027421
+Trabeculoplasty,SLT Laser,65855,258.1063321
+NOC Avastin-Com,Avastin,J3490,0
+Scan Computeriz,OCT,92134,43.08468128
+Intravitreal In,Other,67028,107.2568482
+Visual Field Ex,Visual Field,92083,37.80713992
+Repr Ectropion;,Plastic Surgery,67917,654.829844
+Offic/outpt E&m,Office Code,99214,116.0396707
+Unbilled Encoun,Other,UnBLLD,0
+Avastin Injecti,Avastin,J9035,0
+Triamcinolone a,Other Injectables,J3300,0
+Aflibercept Inj,Eylea,J0178,0
+Offic/outpt E&m,Office Code,99213,76.01459538
+Ophth Biomet A-,Other,76519,76.87210586
+Inj Dexamethaso,Ozurdex,J7312,0
+Avastin-Compoun,Avastin,J7999,0
+Gonioscopy (sep,Other,92020,27.5843335
+Extracapsular C,Cataract Surgery,66984,672.2090109
+Aqueous Shunt-e,Glaucoma,66180,1244.38
+Ciliary Body De,Glaucoma Laser,66710,429.91
+Ocular reconst ,Non-Cataract Surgery,65781,1459.47
+Epilation Cryo/,Other,67825,132.36
+Repr Entropion;,Plastic Surgery,67924,501.19
+Iridotomy/iride,Yag & PI Laser,66761,257.2643015
+INSERT ANT DRAI,Other,66183,1125.58
+Fistuliz Scler;,Glaucoma,66170,1190.778929
+Exchg Io Lens,Non-Cataract Surgery,66986,955.6475416
+Vitrectomy Mech,Retinal Surgery,67036,947.8500282
+Inj Anes Agent;,Other,64400,88.40133775
+Insertion Of Aq,Other,0449T,0
+Vitrectomy Mech,Retinal Surgery,67040,1138.49275
+Fistulizat Scle,Glaucoma,66172,1296.369716
+Keratoplasty En,Non-Cataract Surgery,65756,1293.528987
+Discission 2nd ,Yag & PI Laser,66821,337.6078488
+Destrct Les Ret,Retinal Laser,67210,546.0588526
+Ciliary Body De,Non-Cataract Surgery,66711,699.4142686
+Insert Ant Segm,Other,0191T,0
+Toric IOL Inser,Other,T-IOL,0
+Eylea - Sample ,Eylea,EYLEA_SAMP,0
+Dexamethasone (,Other Injectables,DEXAM_DELV,0
+Lucentis - Samp,Lucentis,LUCEN_SAMP,0
+Cataract Ext.  ,Cataract Surgery,66982,815.5318488
+Rpr Complex Ret,Retinal Surgery,67113,1458.753902
+Anes- Eye; Nos,Anesthesia,140,133.93
+Anes- Eye; Vitr,Anesthesia,145,158.43
+Anes- Eye; Lens,Anesthesia,142,106.17
+Ophth Exten W/r,Ophthalmoscopy,92226,26.39094676
+Ophth Ultrasoun,Other,76512,79.22323973
+Lucentis 0.5 Mg,Lucentis,J2778,0
+Scan Computeriz,Other,92134-TC,15.97
+Offic/outpt E&m,Office Code,99211,22.89718558
+Scan Computeriz,Other,92134-26,26.77218253
+Visual Field Ex,Visual Field,92082,26.80013696
+Clo Lacrimal Pu,Other,68761,159.6945856
+Corneal Topogra,Other,92025,38.14959437
+Revis Operative,Retinal Surgery,66250,606.8733369
+Anes- Eye; Corn,Anesthesia,144,219.69
+Pre Op Visit,Other,Pre Op,0
+Repr Retinal De,Retinal Surgery,67108,1304.600063
+REVISION OF AQU,Other,66184,851.8293249
+Severing Adhesi,Other,65870,642.5262461
+Aspirat/vitreou,Retinal Surgery,67015,636.2
+Keratoplasty; P,Other,65730,1353.64583
+Exc & Repr Lid;,Plastic Surgery,67961,498.4213019
+Goniotomy,Non-Cataract Surgery,65820,813.7831979
+Inj Therap Agen,Other,67515,101.9155876
+"Vitrectomy,Rmvl",Retinal Surgery,67041,1221.05
+Remov Implnt Ma,Retinal Surgery,67121,993.64
+Determ Refracti,Other,92015,20.83
+Eylea Prefilled,Eylea,J0178b,0
+INSERT ANT SEGM,Other,0376T,0
+Paracentesis (s,Other,65815,520.78
+Ext Ocular Phot,Other,92285,24.03062106
+Visual Field Ex,Other,92082-26,22.66354701
+Laser treatment,Retinal Surgery,67039,1056.6
+Remov Implnt Ma,Other,65920,860.5
+Cataract Ext. C,Cataract Surgery,66982,815.5318488
+Severing Adhesi,Other,65880,723.91
+Anes- Integ Hea,Anesthesia,103,135.57
+Offic/outpt E&m,Office Code,99212,47.47339251
+Ophthalmoscopy ,Other,92202,16.91086477
+Translum Dilate,Non-Cataract Surgery,66174,1033.410998
+Bx Conjunc,Other,68100,184.410471
+Offic/outpt E&m,Office Code,99215,158.15
+Offic/outpt E&m,Office Code,99203,119.2889946
+Revis Aqueous S,Glaucoma,66185,919.0259948
+Severing Vitreo,Other,67031,387.7930911
+Remov Lens Mat;,Non-Cataract Surgery,66852,923.15
+Repr Blepharopt,Plastic Surgery,67904,594.4982832
+Triesence - Sam,Other Injectables,TRIES_SAMP,0
+Offic/outpt E&m,Office Code,99204,181.0139087
+Scan Computeriz,Other,92133-26,23.69961667
+Placmnt amnio m,Other,65778,1491.438588
+Visual Field Ex,Other,92082-TC,27.59771712
+Dexamethasone (,Other Injectables,DEXAM_SAMP,0
+Fluorescein Ang,Other,92235,90.4399951
+Beovu Sample,Beovu,Beovu_smpl,0
+Ophthalmoscopy ,Other,92201,24.41915658
+Lens sphcy bifo,Other,V2204,0
+Lens sphcyl bif,Other,V2203,0
+Offic/outpt E&m,Office Code,99202,73.63632511
+Unlisted Proc E,Other,67999,0
+Beovu Delivered,0,Beovu_Delv,0
+Correct Trichia,Other,67820,43.25747936
+Beovu Delivered,Beovu,Beovu_Delv,0
+Virtual Check-i,Other,G2012,16.00934656
+Kenalog Deliver,Kenalog,KENAL_DELV,0
+Repr Lacerat; A,Non-Cataract Surgery,65286,758.0006957
+PHONE E/M PHYS/,Office Code,99441,15.63906726
+PHONE E/M PHYS/,Office Code,99442,31.10490445
+Exc Ben Les Fac,Other,11440,151.9530954
+Prophylaxis Ret,Other,67145,573.0443828
