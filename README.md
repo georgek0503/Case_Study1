@@ -13,7 +13,7 @@
 
 | Code Desc  | Cpt Type | Service Item ID | Medicare Allowable |
 | ------------- | ------------- | ------------- | ------------- |
-| Description of service provided  | Identifier of medical services/procedures performed by healthcare professionals | Unique CPT code relating to service provided | Payment in USD considered payment in full by insurance company  |
+| Description of service provided  | Identifier of medical services/procedures performed by healthcare professionals | Unique CPT code relating to service provided | Payment considered in full by insurance company  |
 
 
 All 4 tables maintained similar structures and several conditions were identified within each table to allow use of joins to implement various functions. For example, after 3 inner joins were performed, the costs undertaken by an insurance company was calculated with a case statement that determined whether the Medicare allowable cost was null or not and then multiplied this value by either the percent medicare allowable or percent revenue.
