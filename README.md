@@ -54,5 +54,5 @@ order by profperpat desc
 | Medicaid | 111083.61983158934 | 7934.544273684953 |
 | Commercial | 324338.79094897746 | 7722.3521654518445 |
 
-According to the resulting data, we can see that Medicare is the most profitable health insurance company on a profit per patient basis by several margins. 
+According to the resulting data, we can conclude that Medicare is the most profitable health insurance company on a profit per patient basis by several margins. 
 
