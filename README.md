@@ -1,7 +1,12 @@
 # Case_Study1
 ## A Case Study on Healthcare Datasets
 
-This independent case study is to demonstrate applied knowledge of PostgreSQL using a health insurance dataset injected into MySQL Workbench from Kaggle.
+This independent case study is to demonstrate applied knowledge of PostgreSQL.
+
+### Workflow:
+
+4 datasets coontaining fictional health insurance information were injected from Kaggle into MySQL Workbench as csv files within an independent schema. 
+Deep dive analyses investigating self-proposed inquiries such as *"what was the most profitable health insurance contract type on a profit per patient basis?"* were performed to understand various trends and outliers within the dataset. 
 
 
 ```
@@ -31,3 +36,4 @@ from t1
 group by lob
 order by profperpat desc
 ```
+
