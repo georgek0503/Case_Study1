@@ -47,3 +47,11 @@ group by lob
 order by profperpat desc
 ```
 
+**3.** The query was then run in MySQL workbench the obtain the results of the given question. The results grid from the above query is as follows:
+| lob | profit | profperpat |
+| --- | --- | --- |
+| Medicare | 3813270.029506771 | 49522.98739619183 |
+| Medicaid | 111083.61983158934 | 7934.544273684953 |
+| Commercial | 324338.79094897746 | 7722.3521654518445 |
+According to the resulting data, we can see that Medicare is the most profitable health insurance company on a profit per patient basis by several margins. 
+
