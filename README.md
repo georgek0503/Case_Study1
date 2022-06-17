@@ -5,11 +5,20 @@
 
 ### Workflow:
 
-4 datasets coontaining fictional health insurance information were injected from Kaggle into MySQL Workbench as csv files within an independent schema. 
+**1.** 4 datasets containing fictional health insurance information were injected from Kaggle into MySQL Workbench as csv files within an independent schema. 
 
-Deep dive analyses investigating self-proposed inquiries such as *"what was the most profitable health insurance contract type on a profit per patient basis?"* were performed to understand various trends and outliers within the dataset. 
+**2.** Deep dive analyses investigating self-proposed inquiries such as *"what was the most profitable health insurance contract type on a profit per patient basis?"* were performed to understand various trends and outliers within the dataset. 
+
+**Example Datset:**
+
+| Code Desc  | Cpt Type | Service Item ID | Medicare Allowable |
+| ------------- | ------------- | ------------- | ------------- |
+| Description of service provided  | Identifier of medical services/procedures performed by healthcare professionals | Unique CPT code relating to service provided | Payment in USD considered payment in full by insurance company  |
 
 
+All 4 tables maintained similar structures and several conditions were identified within each table to allow use of joins to implement various functions. For example, after 3 inner joins were performed, the costs undertaken by an insurance company was calculated with a case statement that determined whether the Medicare allowable cost was null or not and then multiplied this value by either the percent medicare allowable or percent revenue.
+
+**Example Code:**
 ```
 with t1 as (
 	select lob,
