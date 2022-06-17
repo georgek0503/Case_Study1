@@ -4,7 +4,7 @@ A Case Study on Healthcare Datasets
 
 
 
-'''
+```
 select patienttype, sum(revenue)
 from twc.data as d
 where chargedos like '%19'
@@ -12,4 +12,4 @@ where chargedos like '%19'
 group by PatientType
 order by sum(revenue) desc
 ;
-'''
+```
