@@ -1,1 +1,15 @@
+Determine the patient type in location 10 that brought in the most revenue in 2019:
 
+Result Grid
+
+|     patienttype    | sum(revenue)      |
+| ------------------ | ------------------| 
+| Retinal Injections | 58951.41000000005 |
+| Office Visit       | 11806.606000000005|
+| Diagnostic Test    | 762.1320000000001 |
+| Office Procedure   | 729.652           |
+| Post Op            | 243.55800000000002|
+| Visual Field       | 157.416           |
+| Post Op 1 Day      | 0                 |
+
+Retinal Injections was the patient type in location 10 that brought the most revenue in 2019
