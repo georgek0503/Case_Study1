@@ -6,6 +6,7 @@
 ### Workflow:
 
 4 datasets coontaining fictional health insurance information were injected from Kaggle into MySQL Workbench as csv files within an independent schema. 
+
 Deep dive analyses investigating self-proposed inquiries such as *"what was the most profitable health insurance contract type on a profit per patient basis?"* were performed to understand various trends and outliers within the dataset. 
 
 
