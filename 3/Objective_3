@@ -3,7 +3,7 @@ Determine the patient type in location 10 that brought in the most revenue in 20
 Result Grid
 
 |     patienttype    | sum(revenue)      |
-| ------------------ | ---               | 
+| ------------------ | ------------------| 
 | Retinal Injections | 58951.41000000005 |
 | Office Visit       | 11806.606000000005|
 | Diagnostic Test    | 762.1320000000001 |
