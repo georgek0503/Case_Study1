@@ -1,3 +1,7 @@
+Determine the patient type drives the most revenue/encounter? 
+
+Results Grid
+
 patienttype,revperenc
 Surgery,1202.8009557200567
 "Retinal Lasers",525.5806282987966
@@ -26,3 +30,5 @@ Telemedicine,29.45767886333333
 "Walk In",15.1076118125
 "Post Op 1 Day",1.5405501889545454
 "Pre Op",0
+
+Surgery had the highest patient type revenue per encounter
