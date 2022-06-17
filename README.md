@@ -47,7 +47,7 @@ group by lob
 order by profperpat desc
 ```
 
-**3.** The query was then run in MySQL workbench the obtain the results of the given question. The results grid from the above query is as follows:
+**3.** The query was then run in MySQL Workbench the obtain the results of the given question. The results grid from the above query is as follows:
 | lob | profit | profperpat |
 | --- | --- | --- |
 | Medicare | 3813270.029506771 | 49522.98739619183 |
