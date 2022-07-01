@@ -1,7 +1,7 @@
 # Case_Study1
 ## A Case Study on Healthcare Datasets
 
-**This independent case study was conducted to demonstrate applied knowledge of PostgreSQL.**
+**This independent case study was conducted to demonstrate applied knowledge of SQL.**
 
 ### Workflow:
 
